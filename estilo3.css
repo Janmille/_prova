@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(250, 248, 240);
+    font-family: 'Times New Roman';
+    text-align: center;
+    color:#11292b;
+}
+
+#cabeçalho{
+text-align: left;
+font-family: verdana ;
+
+}
+#conteudo{
+text-align:left;
+font-family:'Times New Roman';
+    
+}
+
+
